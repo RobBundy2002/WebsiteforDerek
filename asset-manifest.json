@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WebsiteForDerek/static/css/main.9270d51d.css",
-    "main.js": "/WebsiteForDerek/static/js/main.6bc0f1f7.js",
+    "main.js": "/WebsiteForDerek/static/js/main.bad89229.js",
     "static/js/453.6e5afc04.chunk.js": "/WebsiteForDerek/static/js/453.6e5afc04.chunk.js",
     "index.html": "/WebsiteForDerek/index.html",
     "main.9270d51d.css.map": "/WebsiteForDerek/static/css/main.9270d51d.css.map",
-    "main.6bc0f1f7.js.map": "/WebsiteForDerek/static/js/main.6bc0f1f7.js.map",
+    "main.bad89229.js.map": "/WebsiteForDerek/static/js/main.bad89229.js.map",
     "453.6e5afc04.chunk.js.map": "/WebsiteForDerek/static/js/453.6e5afc04.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9270d51d.css",
-    "static/js/main.6bc0f1f7.js"
+    "static/js/main.bad89229.js"
   ]
 }
