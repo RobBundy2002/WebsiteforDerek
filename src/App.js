@@ -4,9 +4,9 @@ function App() {
   return (
       <div className="App">
         <header className="App-header">
-          <h1>Welcome to Derek's Website!</h1>
+          <h1>UJLP!</h1>
           <p className="App-description">
-            This is where you'll find all things Derek. Enjoy your stay!
+            Undergraduate Journal of Law and Politics!
           </p>
           <a
               className="App-link"
